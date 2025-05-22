@@ -21,7 +21,7 @@ Dataset/
 ### Image Format
 - All images are in `.jpg` format
 
-### Label Format (YOLOv5)
+### Label Format (YOLO)
 ```
 <class_id> <x_center> <y_center> <width> <height>
 ```
