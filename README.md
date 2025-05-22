@@ -98,7 +98,7 @@ jupyter notebook
 
 The following are sample prediction outputs and scene reconstructions generated from the YOLO model:
 
-https://github.com/MrAlbaraa/Drone-Bird-Detection-RGB-IR-Data-/tree/main/SceneVideos 
+https://github.com/MrAlbaraa/Drone-Bird-Detection-RGB-IR-Data/tree/main/SceneVideos 
 
 If videos aren't uploaded, you can view them in the `SceneVideos/` directory or run the inference code provided in the notebook.
 
