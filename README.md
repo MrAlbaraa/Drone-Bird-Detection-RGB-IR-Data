@@ -52,7 +52,7 @@ Dataset/
 | 2 | IR_BIRD_00160_002_png.rf.b2a71ef76532c70.jpg | BIRD_00160_002_png.rf.665902ae9388b9016e15cee3a6c03905.jpg |
 | 3 | IR_BIRD_00160_002_png.rf.cac0484d8f6c2f8.jpg | BIRD_00160_002_png.rf.69513ceff2d17a600fb32df906c30eb0.jpg |
 
-Note: The `.rf.<hash>.jpg` suffix denotes unique samples (possibly augmented or hashed).
+Note: The `.rf.<hash>.jpg` suffix denotes unique samples (augmented).
 
 ---
 
