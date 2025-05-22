@@ -107,11 +107,12 @@ If videos aren't uploaded, you can view them in the `SceneVideos/` directory or 
 
 See `requirements.txt`:
 ```text
+ultralytics
 opencv-python
+pytorch
 numpy
 matplotlib
 pandas
-ultralytics
 jupyter
 ```
 
