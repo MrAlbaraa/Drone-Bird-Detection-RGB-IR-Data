@@ -71,9 +71,8 @@ Note: The `.rf.<hash>.jpg` suffix denotes unique samples (possibly augmented or 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/Drone-Bird-Detection-RGB-IR-Data-
-.git
-cd Drone-Bird-Detection-RGB-IR-Data-
+git clone https://github.com/your-username/Drone-Bird-Detection-RGB-IR-Data.git
+cd Drone-Bird-Detection-RGB-IR-Data
 ```
 
 ### 2. Create Environment
